@@ -1,0 +1,3 @@
+[submodule "23"]
+	path = 23
+	url = git@github.com:Nilaos/advent23.git
