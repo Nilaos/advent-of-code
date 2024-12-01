@@ -1,3 +1,9 @@
 [submodule "23"]
 	path = 23
 	url = git@github.com:Nilaos/advent23.git
+[submodule "21"]
+	path = 21
+	url = git@github.com:Nilaos/advent2021.git
+[submodule "22"]
+	path = 22
+	url = git@github.com:Nilaos/advent2022.git
