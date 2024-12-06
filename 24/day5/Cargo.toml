@@ -1,0 +1,8 @@
+[package]
+name = "day5"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aoc_driver = "0.3.6"
+nom = "7.1.3"
